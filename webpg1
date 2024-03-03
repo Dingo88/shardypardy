@@ -1,0 +1,76 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ClownCar Ministries -Reverend Steve Chaney - Officiant</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+
+
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+
+        h1, h2 {
+            color: #4e535f;
+        }
+
+
+        p {
+            line-height: 1.5;
+        }
+
+
+        .booking {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+
+
+<body>
+    <header>
+        <h1>Reverend Steve Chaney</h1>
+        <p>Ordained Minister | Licensed & Accredited Officiant</p>
+    </header>
+
+
+    <section id="bio">
+        <h2>Bio</h2>
+        <p>
+            Welcome! I am Reverend Steve Chaney, an ordained minister fully licensed and accredited to officiate weddings
+            and funerals in the state of Minnesota. With a passion for meaningful ceremonies, I am here to make your special
+            moments unforgettable.
+        </p>
+    </section>
+
+
+    <section class="booking">
+        <h2>Booking & Pricing</h2>
+        <p>
+            Whether it's your wedding day or a solemn farewell, I offer personalized services to meet your unique needs.
+            Prices vary based on specific parameters. Please contact me for a customized quote.
+        </p>
+    </section>
+
+
+    <footer>
+        <p>Contact: steve.c.chaney@outlook.com | Phone: 612-479-3505</p>
+    </footer>
+</body>
+
+
+</html>
+```
